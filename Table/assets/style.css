@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Metrophobic&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Metrophobic", sans-serif;
+}
+
+.main-section {
+    padding: 0px;
+}
+
+.BioData {
+    display: flex;
+}
+
+.BioData h6 {
+    font-weight: 600;
+    width: 160px;
+    font-size: 12px;
+}
+
+.isoDev {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    padding: 6px 30px 10px 30px;
+}
+
+.isoDev img {
+    height: 70px;
+    width: auto;
+}
+
+.isoDev p {
+    font-weight: 900;
+    font-size: 12px;
+}
+
+footer h6 {
+    font-weight: 900;
+    font-size: 14px;
+    text-align: center;
+}
+
+footer .address {
+    background: #000 !important;
+    padding: 5px 0px;
+    color: #fff;
+    font-size: 12.5px;
+    text-align: center;
+}
+
+.branches {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 0px 0px;
+}
+
+.branches img {
+    height: 80px;
+}
+
+.heading {
+    display: flex;
+    background-color: #ced2d4;
+    align-items: center;
+    border-radius: 0px !important;
+    border: 1px solid #646464;
+}
+
+.siNo {
+    width: 10%;
+    border-right: 1px solid black;
+    height: 32px;
+    padding: 10px 0px 5px 10px;
+}
+
+.siNo h6 {
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.syllabus {
+    width: 90%;
+    height: 32px;
+    padding: 10px 0px 5px 10px;
+    text-align: center;
+}
+
+.syllabus h6 {
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.logo-img {
+    display: flex;
+}
+
+.logo-img .line {
+    width: 10.1%;
+    border-left: 1px solid #646464;
+    border-right: 1px solid #646464;
+}
+
+.imgDiv {
+    width: 89.9%;
+    border-right: 1px solid #646464;
+}
+
+.logo-img img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px 10px 0px;   
+}
+
+.rows {
+    display: flex;
+}
+
+.line1 {
+    border: 1px solid #646464;
+    width: 10.1%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.line2{
+    width: 70%;
+    border-top: 1px solid #646464;
+    border-bottom: 1px solid #646464;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.line3 {
+    border: 1px solid #646464;
+    width: 19.9%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.line4 {
+    border: 1px solid #646464;
+    border-top: 0px !important;
+    width: 10.1%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.line5 {
+    width: 70%;
+    border-top: 1px solid #646464;
+    border-bottom: 1px solid #646464;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    border-top: 0px !important;
+}
+
+.line6 {
+    border: 1px solid #646464;
+    width: 19.9%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    border-top: 0px !important;
+}
+
+.line7 {
+    border: 1px solid #646464;
+    width: 30.3%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    border-top: 0px !important;
+    text-align: right;
+}
+
+.line8 {
+    border: 1px solid #646464;
+    width: 19.7%;
+    padding: 5px 10px 5px 15px;
+    font-weight: bold;
+    font-size: 12px;
+    border-top: 0px !important;
+    border-left: 0px !important;
+}
