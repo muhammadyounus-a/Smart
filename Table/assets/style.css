@@ -17,8 +17,13 @@ body {
 
 .BioData h6 {
     font-weight: 600;
-    width: 160px;
     font-size: 12px;
+    margin-left: 10px;
+}
+
+.BioData .details {
+    width: 120px;
+    margin-left: 0px !important;
 }
 
 .isoDev {
