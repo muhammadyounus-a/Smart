@@ -62,10 +62,11 @@ footer .address {
     justify-content: center;
     align-items: end;
     padding: 10px 0px 0px 0px;
+    gap: 20px;
 }
 
 .branches img {
-    height: 80px;
+    height: 75px;
 }
 
 .heading {
@@ -182,7 +183,7 @@ footer .address {
 
 .line7 {
     border: 1px solid #646464;
-    width: 30.3%;
+    width: 30.2%;
     padding: 5px 10px 5px 15px;
     font-weight: bold;
     font-size: 12px;
@@ -192,7 +193,7 @@ footer .address {
 
 .line8 {
     border: 1px solid #646464;
-    width: 19.7%;
+    width: 19.8%;
     padding: 5px 10px 5px 15px;
     font-weight: bold;
     font-size: 12px;
